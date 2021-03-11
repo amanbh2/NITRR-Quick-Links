@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: #1c182d;
+}
+html a {
+  text-decoration: none;
+  color: white;
+}
+body {
+  width: 300px;
+  background-image: url(nitrrlogo2.jpg);
+  
+}
+#navbar {
+  background-color: #252a34;
+  height: 50px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 100%;
+  place-items: center stretch;
+  text-align: center;
+  box-shadow: white 1px 1px 1px;
+  padding-bottom: 5px;
+}
+
+#navbar h6 {
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  margin-top: 5px;
+  color: #08d9d6;
+}
+#navbar p {
+  font-size: 10px;
+  letter-spacing: 1px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+
+#boxes {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  color: white;
+}
+.material-icons {
+  font-size: 22px;
+  padding-bottom: 10px;
+}
+.link-box {
+  text-align: center;
+  border: #222831 1px solid;
+  transition: background-color 0.3s ease;
+  font-family: "Poppins", sans-serif;
+  height: 100px;
+  display: grid;
+  place-items: center stretch;
+  justify-content: space-around;
+  font-size: 12px;
+  cursor: pointer;
+}
+.link-box:hover {
+  background-color: rgba(37, 42, 52, 0.5);
+  box-shadow: white 1px 1px 1px;
+}
+#link1 {
+  grid-column: 1/4;
+  height: 70px;
+}

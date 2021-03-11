@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "QUICK LINKS - NITRR",
+    "short_name": "QUICK LINKS",
+    "version": "1.0.0",
+    "description": "A cloud based service for NIT Raipur students. Find contacts, syllabi and other useful resources in seconds.",
+    "icons": {
+        "16": "QuickLinksLogo16.png",
+        "48": "QuickLinksLogo48.png",
+        "128": "QuickLinksLogo128.png"
+    },
+    "browser_action":{
+        "default_icon": "QuickLinksLogo16.png",
+        "default_popup": "index.html"
+    }
+    
+}
