@@ -17,7 +17,9 @@ Download the QUICK LINKS – NITRR now and stay updated.
 
 #Installation
 A. Install using Chrome Web Store <Recommended>
-Open Chrome Web store -> Search for QUICK LINKS-NITRR -> Add to Chrome
++ Open Chrome Web store
++ Search for QUICK LINKS-NITRR
++ Add to Chrome
 //The extension would have been added to your chrome browser.
 
 B. Install Manually via GitHub repository.
