@@ -10,7 +10,10 @@ Welcome to QUICK LINKS - NITRR, an one spot solution for your needs. It provides
 
 Now you don’t need to scroll through pages to search for your syllabus or faculty contacts. It has been made easier in QUICK LINKS, you only need to enter your semester to get the syllabus and just enter the faculty name to get his whole contact details.
 We are also working to provide you with the useful resources required for your academics. It will be updated under the “Resources” Tab.
-Think smart and have an edge over your batchmates. Download the QUICK LINKS – NITRR now and stay updated.
+
+Think smart and have an edge over your batchmates.
+
+Download the QUICK LINKS – NITRR now and stay updated.
 
 #Installation
 A. Install using Chrome Web Store <Recommended>
